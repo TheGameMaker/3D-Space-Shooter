@@ -9,16 +9,6 @@ My personal High Score right now is 4340 see if you can beat that ;)
 
 Currently Under Development alpha v1.0
 
-Implemented so far:
-User Interface
-Flight Controls
-Collision Detection
-Particle systems
-Custom Spawner
+Implemented so far: User Interface, Flight Controls, Collision Detection, Particle systems, Custom Spawner
 
-Needs to be Implemented:
-Break cooldown w/ UI
-Behavior trees for complicated enemies
-Upgrade custom art
-Make custom sound
-Add levels/different enemies
+Needs to be Implemented: Break cooldown w/ UI, Behavior trees for complicated enemies, Upgrade custom art, Make custom sound, Add levels/different enemies
