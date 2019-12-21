@@ -8,6 +8,7 @@ This is a 3D game based on the classic arcade game asteroids, but with an infini
 My personal High Score right now is 4340 see if you can beat that ;)
 
 Currently Under Development alpha v1.0
+
 Implemented so far:
 User Interface
 Flight Controls
