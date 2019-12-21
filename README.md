@@ -11,4 +11,4 @@ Currently Under Development alpha v1.0
 
 Implemented so far: User Interface, Flight Controls, Collision Detection, Particle systems, Custom Spawner
 
-Needs to be Implemented: Break cooldown w/ UI, Behavior trees for complicated enemies, Upgrade custom art, Make custom sound, Add levels/different enemies
+Needs to be Implemented: Break cooldown w/ UI, Behavior trees for complicated enemies, Upgrade custom art, Make custom sound, Add levels/different enemies, animations, upgrade flight controls
